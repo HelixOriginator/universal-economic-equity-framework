@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/universal-economic-equity-framework/sitemap.xml
